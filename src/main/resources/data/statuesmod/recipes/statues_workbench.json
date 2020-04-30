@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kiI",
+    "i i",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:oak_planks"
+    },
+    "i": {
+      "item": "minecraft:cobblestone"
+    },
+    "k": {
+      "item": "minecraft:paper"
+      },
+  },
+  "result": {
+    "item": "statuesmod:statues_workbench"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "statuesmod:block/statues_workbench" },
+        "facing=south": { "model": "statuesmod:block/statues_workbench", "y": 180 },
+        "facing=west":  { "model": "statuesmod:block/statues_workbench", "y": 270 },
+        "facing=east":  { "model": "statuesmod:block/statues_workbench", "y": 90 }
+    }
+}

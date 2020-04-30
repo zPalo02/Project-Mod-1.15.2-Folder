@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "loader": "forge:composite",
+  "parts": {
+    "part1": {
+      "loader": "forge:obj",
+      "model": "statuesmod:models/block/statue.obj"
+      "textures": {
+        "0": "statuesmod:blocks/statue"
+      }
+    }
+  }
+}
